@@ -1,0 +1,15 @@
+{
+  "appium": {
+    "capabilities": {
+      "deviceName": "pixel",
+      "platformName": "android",
+      "platformVersion": "9.0",
+      "udid": "emulator-5554",
+      "app": "/Users/adelgaraev/Downloads/ru.yandex.mail_8.2.1_92370.apk",
+      "appPackage": "ru.yandex.mail",
+      "appActivity": "ru.yandex.mail.ui.LoginActivity"
+    },
+    "url": "http://0.0.0.0:4723/wd/hub",
+    "implicitlyWait": 10
+  }
+}
